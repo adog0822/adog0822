@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Sports Marketing Consulting</title>
+    <title>Builder, Finance & Data Science Student</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Your Sports Marketing Consulting</h1>
+            <h1>Builder, Finance & Data Science Student </h1>
             <nav>
                 <ul>
                     <li><a href="#about">About</a></li>
